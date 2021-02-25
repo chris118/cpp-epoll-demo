@@ -1,0 +1,6 @@
+[submodule "3rdparty/glog"]
+	path = 3rdparty/glog
+	url = https://gitee.com/chris118/glog.git
+[submodule "3rdparty/handy"]
+	path = 3rdparty/handy
+	url = https://gitee.com/chris118/handy.git
